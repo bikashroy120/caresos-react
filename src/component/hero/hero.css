@@ -1,0 +1,49 @@
+.hero_Section {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../../assets//image/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 95vh;
+}
+
+
+.hero_content{
+    margin-top: 100px !important;
+}
+
+
+.hero_content h2{
+    font-size: 70px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+
+
+.hero_content h2 span{
+    color: #FF7A00;
+}
+
+
+.hero_content h3{
+    font-size: 30px;
+    color: #fff;
+    font-weight: 500;
+}
+
+
+.hero_content p{
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
+
+.button_grop{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    margin-top: 100px;
+}
