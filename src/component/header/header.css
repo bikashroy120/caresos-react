@@ -1,0 +1,36 @@
+.header{
+    background-color: #fff;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo img{
+    width: 150px;
+}
+
+.nav_wapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_item{
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_namu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.nav_namu li{
+    font-weight: 500;
+    color: #000;
+}
