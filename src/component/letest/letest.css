@@ -1,0 +1,17 @@
+.letest_area{
+    padding: 60px 0;
+    background: #E9E9E9;
+}
+
+
+.leatest_headding h2{
+    font-weight: 700;
+    font-size: 54px; 
+    color: #000;   
+}
+
+.leatest_headding p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 55px;
+}

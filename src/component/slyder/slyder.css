@@ -1,0 +1,89 @@
+
+.sluder_item{
+    margin-right: 10px;
+    height: 500px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    /* background: url("../../assets/image/Rectangle\ 11.png"); */
+}
+
+
+.sluder_heade{
+    background: rgba(0, 0, 0, 0.47);
+    backdrop-filter: blur(15.5px);
+    padding: 10px 5px;
+}
+
+
+.sluder_heade h4{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+
+.sluder_heade p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+
+
+.slyder_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+
+.slyder_button div{
+    width: 100px;
+    height: 3px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.slyder_button h2{
+    font-size: 25px;
+    font-weight: 500;
+    color: #FF7A00;
+    text-transform: uppercase;
+}
+
+
+.arrow{
+    border: 1px solid #FF7A00;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FF7A00;
+    border-radius: 6px;
+    cursor: pointer;
+    position: absolute;
+    top: -50px;
+    right: 0;
+    transition: 0.4s;
+}
+
+.left{
+    right: 50px;
+}
+
+
+.arrow:hover{
+    background: #FF7A00;
+    color: #fff;
+}
+
+
+
