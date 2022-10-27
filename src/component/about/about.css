@@ -1,0 +1,33 @@
+.about_area{
+    padding: 80px 0;
+    background: #F7F7F7;
+}
+
+
+.about_content .about_heading{
+    font-weight: 700;
+    font-size: 50px;
+    color: #FF7A00;
+}
+
+
+.short_drc{
+    font-weight: 400;
+    font-size: 17px;
+    color: #000000;
+}
+
+
+.long_dec{
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+
+.about_btn{
+    margin-top: 60px;
+}
+
+
+/* background: linear-gradient(180deg, rgba(148, 148, 148, 0.03) 0%, rgba(0, 0, 0, 0.53) 100%); */

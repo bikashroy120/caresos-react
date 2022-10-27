@@ -1,0 +1,38 @@
+.servies_area {
+  background: linear-gradient(
+      180deg,
+      rgba(148, 148, 148, 0.03) 0%,
+      rgba(0, 0, 0, 0.53) 100%
+    ),
+    url("../../assets//image/services.png");
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+    position: relative;
+}
+
+
+
+.serves_conrent{
+    position: absolute;
+    left: 50px;
+    bottom: 30px;
+    padding-right: 70px !important;
+}
+
+
+.serves_conrent h2{
+    font-weight: 600;
+    font-size: 65px;
+    color: #fff;
+}
+
+
+.serves_conrent h2 span{
+    color: #FF7A00;
+}
+
+
+
+
+
