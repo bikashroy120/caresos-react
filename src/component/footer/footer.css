@@ -92,3 +92,29 @@
   align-items: center;
   justify-content: center;
 }
+
+
+@media only screen and (max-width:992px) {
+.footer_logo{
+  margin-bottom: 30px !important;
+}
+}
+
+
+@media only screen and (max-width:767px) {
+    .footer_button{
+      align-items: flex-start;
+      margin-top: 10px;
+    }
+
+    .footer_tab{
+      margin-bottom: 20px;
+    }
+
+    .footer_buttom{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+  }

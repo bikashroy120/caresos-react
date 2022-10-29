@@ -20,7 +20,7 @@ const Footer = () => {
                 </Col>
                 <Col lg="6">
                     <Row>
-                        <Col md="3">
+                        <Col md="3" sm="6">
                             <div className='footer_tab'>
                                 <h2>Mobile app</h2>
                                 <ul>
@@ -30,7 +30,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </Col>
-                        <Col md="3">
+                        <Col md="3" sm="6">
                             <div className='footer_tab'>
                                 <h2>Community</h2>
                                 <ul>
@@ -40,7 +40,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </Col>
-                        <Col md="3">
+                        <Col md="3" sm="6">
                             <div className='footer_tab'>
                                 <h2>Mobile app</h2>
                                 <ul>
@@ -50,7 +50,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </Col>
-                        <Col md="3">
+                        <Col md="3" sm="6">
                             <div className='footer_button'>
                                <button className='f_but_1'>Register</button>
                                <button className='f_but_2'>Log in</button>

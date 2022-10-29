@@ -41,3 +41,10 @@
 .img_galeray{
     margin-top: 40px;
 }
+
+
+@media only screen and (max-width:992px) {
+  .flex_box{
+    gap: 20px;
+  }
+}

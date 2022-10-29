@@ -8,8 +8,8 @@ const TwoCares = () => {
   return (
     <section className="two_cares">
       <Container>
-        <Row>
-          <Col lg="6" md="6">
+        <Row className="smal_gap">
+          <Col lg="6">
             <div className="two-caresbox">
               <img src={img1} alt="" />
               <h2>Sed ut perspiciatis</h2>
@@ -24,7 +24,7 @@ const TwoCares = () => {
               </div>
             </div>
           </Col>
-          <Col lg="6" md="6">
+          <Col lg="6">
             <div className="two-caresbox">
               <img src={img2} alt="" />
               <h2>Lorem ipsum dolor</h2>

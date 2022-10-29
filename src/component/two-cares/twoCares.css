@@ -28,3 +28,15 @@
 .two_cares_button{
     margin-top: 50px;
 }
+
+
+@media only screen and (max-width:1200px) {
+    
+    .two-caresbox{
+        margin-top: 20px;
+    }
+
+    .two_cares_button{
+        margin-top: 20px;
+    }
+}
