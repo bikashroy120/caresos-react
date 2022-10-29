@@ -31,6 +31,37 @@
 
 
 
+@media only screen and (max-width:992px)  {
+    .about_content{
+        padding-top: 50px !important;
+    }
+}
 
+@media only screen and (max-width:768px)  {
+    .about_content .about_heading{
+        font-weight: 700;
+        font-size: 30px;
+        color: #FF7A00;
+    }
+    
+    
+    .short_drc{
+        font-weight: 400;
+        font-size: 14px;
+        color: #000000;
+    }
+    
+    
+    .long_dec{
+        font-weight: 400;
+        font-size: 17px;
+        margin-top: 20px;
+    }
+    
+    
+    .about_btn{
+        margin-top: 20px;
+    }
+}
 
 /* background: linear-gradient(180deg, rgba(148, 148, 148, 0.03) 0%, rgba(0, 0, 0, 0.53) 100%); */

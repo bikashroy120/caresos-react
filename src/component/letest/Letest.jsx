@@ -9,7 +9,7 @@ const Letest = () => {
     <section className="letest_area">
       <Container>
         <Row>
-          <Col lg="6" md="6">
+          <Col lg="6">
             <div className="leatest_headding">
               <h2>our Latest cars</h2>
               <p>

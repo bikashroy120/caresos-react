@@ -86,4 +86,95 @@
 }
 
 
+@media only screen and (max-width:1400px) {
+    .sluder_item{
+        margin-right: 10px;
+        height: 450px;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    
+        /* background: url("../../assets/image/Rectangle\ 11.png"); */
+    }
+}
 
+
+
+@media only screen and (max-width:992px) {
+    .sluder_item{
+        margin-right: 10px;
+        height: 450px;
+        width: 330px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    
+        /* background: url("../../assets/image/Rectangle\ 11.png"); */
+    }
+
+    .sluder_heade h4{
+        color: #fff;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    
+    
+    .sluder_heade p{
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+    }
+}
+
+
+@media only screen and (max-width:768px) {
+    .sluder_item{
+        margin-right: 10px;
+        height: 450px;
+        width: 255px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    
+        /* background: url("../../assets/image/Rectangle\ 11.png"); */
+    }
+    
+.slyder_button h2{
+    font-size: 20px;
+    font-weight: 500;
+    color: #FF7A00;
+    text-transform: uppercase;
+}
+}
+
+@media only screen and (max-width:525px) {
+    .sluder_item{
+        margin-right: 10px;
+        height: 450px;
+        width: 235px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    
+        /* background: url("../../assets/image/Rectangle\ 11.png"); */
+    }
+
+
+}
+
+@media only screen and (max-width:425px) {
+    .sluder_item{
+        margin-right: 10px;
+        height: 450px;
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        /* background: url("../../assets/image/Rectangle\ 11.png"); */
+    }
+
+
+}

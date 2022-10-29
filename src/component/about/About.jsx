@@ -8,12 +8,12 @@ const About = () => {
     <section className="about_area">
       <Container>
         <Row>
-          <Col lg="6" md="6">
+          <Col lg="6" >
             <div>
               <img src={about} alt="" />
             </div>
           </Col>
-          <Col lg="6" md="6">
+          <Col lg="6">
             <div className="about_content">
               <h2 className="about_heading">About Us</h2>
               <span className="short_drc">

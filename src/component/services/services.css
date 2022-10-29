@@ -33,6 +33,50 @@
 }
 
 
+@media only screen and (max-width:1200px) {
+    .serves_conrent h2{
+        font-weight: 600;
+        font-size: 55px;
+        color: #fff;
+    }
+}
 
+
+@media only screen and (max-width:992px) {
+    .serves_conrent h2{
+        font-weight: 600;
+        font-size: 35px;
+        color: #fff;
+    }
+    .servies_area {
+        background: linear-gradient(
+            180deg,
+            rgba(148, 148, 148, 0.03) 0%,
+            rgba(0, 0, 0, 0.53) 100%
+          ),
+          url("../../assets/image/services.png");
+          background-position: center;
+          background-size: cover;
+          height: 75vh;
+          position: relative;
+      }
+
+      .serves_conrent{
+        position: absolute;
+        left: 50px;
+        bottom: 30px;
+        padding-right: 10px !important;
+    }
+}
+
+
+
+@media only screen and (max-width:425px) {
+    .serves_conrent h2{
+        font-weight: 600;
+        font-size: 20px;
+        color: #fff;
+    }
+}
 
 
