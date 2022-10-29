@@ -1,0 +1,94 @@
+.footer {
+  padding: 60px 0;
+  background: #000;
+  color: #fff;
+}
+
+.footer_logo {
+  width: 150px;
+}
+
+.footer_tab h2 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: -0.015em;
+  color: #ffffff;
+  font-family: 'Poppins';
+}
+
+.footer_tab ul li {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.015em;
+  color: #ffffff;
+  font-family: 'Poppins';
+}
+
+
+.footer_button{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.f_but_1{
+    padding: 8px 20px;
+    background: #FF7A00;
+    border-radius: 6px;
+    color: #fff;
+    border: 1px solid #FF7A00;
+}
+
+
+.f_but_2{
+    padding: 8px 30px;
+    background: #fff;
+    border: 1px solid #FF7A00;
+    border-radius: 6px;
+    color: #FF7A00;
+}
+
+.footer_boder{
+  width: 100%;
+  background-color: #FF7A00;
+  height: 2px;
+  margin: 40px 0;
+}
+
+.footer_buttom{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.socil_div{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 50px;
+}
+
+.socil_div h4{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.social span{
+  width: 30px;
+  height: 30px;
+  background-color: #FF7A00;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

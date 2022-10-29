@@ -1,5 +1,6 @@
 import React from 'react'
 import About from '../component/about/About'
+import Footer from '../component/footer/Footer'
 import Hero from '../component/hero/Hero'
 import Letest from '../component/letest/Letest'
 import Section from '../component/section/Section'
@@ -15,6 +16,7 @@ const Home = () => {
       <Letest />
       <TwoCares />
       <Section />
+      <Footer />
     </>
   )
 }
