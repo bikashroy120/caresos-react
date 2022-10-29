@@ -27,7 +27,7 @@ img{
 
 
 .but_1{
-  padding: 8px 45px;
+  padding: 8px 30px;
   border: none;
   outline: none;
   background: #FF7A00;
@@ -39,7 +39,7 @@ img{
 
 
 .but_2{
-  padding: 8px 70px;
+  padding: 8px 30px;
   border: none;
   outline: none;
   border: 2PX solid #FF7A00;
@@ -49,5 +49,4 @@ img{
   background: transparent;
   font-size: 20px;
 }
-
 

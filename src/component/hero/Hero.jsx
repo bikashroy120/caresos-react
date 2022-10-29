@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="hero_Section">
       <Container>
         <Row>
-          <Col lg="6" md="6">
+          <Col lg="6">
             <div className="hero_content">
               <h2>
                 Purchase your
@@ -25,7 +25,7 @@ const Hero = () => {
               </div>
             </div>
           </Col>
-          <Col lg="6" md="6"></Col>
+          <Col lg="6"></Col>
         </Row>
       </Container>
     </div>
