@@ -3,6 +3,7 @@ import About from '../component/about/About'
 import Hero from '../component/hero/Hero'
 import Letest from '../component/letest/Letest'
 import Services from '../component/services/Services'
+import TwoCares from '../component/two-cares/TwoCares'
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <About />
       <Services />
       <Letest />
+      <TwoCares />
     </>
   )
 }

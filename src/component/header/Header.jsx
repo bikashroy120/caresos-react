@@ -1,5 +1,5 @@
 import React from 'react'
-import { Col, Container, Row } from 'reactstrap'
+import { Container } from 'reactstrap'
 import logo from "../../assets/image/Logo.png"
 import "./header.css"
 

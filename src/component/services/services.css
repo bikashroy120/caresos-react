@@ -4,7 +4,7 @@
       rgba(148, 148, 148, 0.03) 0%,
       rgba(0, 0, 0, 0.53) 100%
     ),
-    url("../../assets//image/services.png");
+    url("../../assets/image/services.png");
     background-position: center;
     background-size: cover;
     height: 95vh;

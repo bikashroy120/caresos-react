@@ -1,0 +1,30 @@
+
+.two_cares{
+    padding: 60px 0;
+    background: #F6F6F6;
+}
+
+
+
+.two-caresbox h2{
+    font-weight: 600;
+    font-size: 20px;
+    color: #000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.two-caresbox p{
+    font-weight: 400;
+    font-size: 14px;
+    
+    letter-spacing: -0.015em;
+    
+    color: rgba(0, 0, 0, 0.8);
+}
+
+
+.two_cares_button{
+    margin-top: 50px;
+}
